@@ -4,6 +4,20 @@
 
 ![Homepage Screenshot](./screenshot.png)
 
+## Table of Content
+
+1. [Requirements](#what-you-can-do)
+
+2. [Usage](#project-learnings)
+
+3. [Future Works](#future-works)
+
+4. [Credits](#credits)
+
+5. [Send Me Queries or Feedback](#send-me-queries-or-feedback)
+
+6. [License](#license)
+
 ## What you can do
 
 1. Sign Up / Sign In using email address and password or google account.
