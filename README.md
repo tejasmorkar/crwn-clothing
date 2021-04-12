@@ -6,7 +6,7 @@
 
 ## Table of Content
 
-1. [Requirements](#what-you-can-do)
+1. [What you can do](#what-you-can-do)
 
 2. [Usage](#project-learnings)
 
